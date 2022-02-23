@@ -34,7 +34,5 @@
 .雷雳+Type-c	:无效
 
 戴尔笔记本Precision 3530_Latitude 5591安装黑苹果Monterey系统，同样适合戴尔Latitude 5591及其它戴尔同平台机型。完美EFI可通过关注微信公众号「虚拟云工作室」，通过任意打赏获取下载链接。制作不易 感谢大家的支持！
-
 ![weixin](https://user-images.githubusercontent.com/97862142/155357012-0206df80-685b-4d08-9aad-e944d1dbc953.jpg)
-
 .B站/bilibili视频安装教程：https://www.bilibili.com/video/BV1CR4y1L7rc?share_source=copy_web
