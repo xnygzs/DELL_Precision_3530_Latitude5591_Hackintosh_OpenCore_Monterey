@@ -33,3 +33,4 @@ Realtek ALC256:扬声器+耳机正常，麦克风有问题,组合插孔修复（
 .雷雳+Type-c	:无效
 
 戴尔笔记本Precision 3530_Latitude 5591安装黑苹果Monterey系统，同样适合戴尔Latitude 5591及其它戴尔同平台机型。完美EFI可通过关注微信公众号「虚拟云工作室」，通过任意打赏获取下载链接。制作不易 感谢大家的支持！
+B站视频安装教程：https://www.bilibili.com/video/BV1CR4y1L7rc?share_source=copy_web
