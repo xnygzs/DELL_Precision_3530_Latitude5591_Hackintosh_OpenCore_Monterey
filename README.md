@@ -1,3 +1,4 @@
+![戴尔笔记本Precision3530安装黑苹果](https://user-images.githubusercontent.com/97862142/155353977-1b1e4b3f-b7a7-47db-b1a5-2bb34e3cb442.jpg)
 戴尔笔记本Precision 3530_Latitude 5591安装黑苹果Monterey系统
 
 .完善情况
