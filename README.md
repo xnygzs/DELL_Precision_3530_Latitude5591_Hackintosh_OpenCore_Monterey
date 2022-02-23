@@ -1,8 +1,7 @@
 
 .完善情况
-型号
-戴尔Precision 3530
-移动工作站笔记本
+
+型号:戴尔Precision 3530移动工作站笔记本
 
 .CPU+IGPU:英特尔®酷睿TM i7-8850H（6核-12线程）2.6-4.3Ghz
 IGPU 英特尔UHD630 CPU + IGPU电源管理
