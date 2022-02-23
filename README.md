@@ -37,4 +37,4 @@
 
 ![weixin](https://user-images.githubusercontent.com/97862142/155357012-0206df80-685b-4d08-9aad-e944d1dbc953.jpg)
 
-.B站视频安装教程：https://www.bilibili.com/video/BV1CR4y1L7rc?share_source=copy_web
+.B站/bilibili视频安装教程：https://www.bilibili.com/video/BV1CR4y1L7rc?share_source=copy_web
